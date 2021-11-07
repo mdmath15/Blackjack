@@ -1,2 +1,2 @@
 # Blackjack
-Jogo de Blackjack em javascript, feito pro curso da Labenu
+- Jogo de Blackjack utilizando Javascript, feito pro curso da Labenu.
